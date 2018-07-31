@@ -19,5 +19,69 @@
       <description> START </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://example.org/home/10-start/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/10-start/</guid>
+      <description> START Supplier Inventory Manufacture Customer Finance Report </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/home/20-supplier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/20-supplier/</guid>
+      <description> Purchase Management Supplier  Supplier / Vendor Data Category Product Product Bahan Satuan Beli (Kg/Liter/Dozen etc) Harga Beli Report  Workflow RfQ &amp;ndash;&amp;gt; PO &amp;ndash;&amp;gt; Vendor Bills  Order Date (Tanggal PO di buat) Payment Terms (15 days, 30 days, etc) Taxes Billing Status (Waiting Bills, Open, Paid, Cancel) User Executor   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/home/30-inventory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/30-inventory/</guid>
+      <description> Inventory Management Inventory  Stock Product Gudang Qty Konversi Satuan (Kg -&amp;gt; gr / Liter -&amp;gt; ml / Dozen -&amp;gt; Unit etc)  Receipts Delivery Orders Manufacturing  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/home/40-manufacture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/40-manufacture/</guid>
+      <description> Manufacturing Bill Of Material  Product Jadi Product Bahan Product UoM [Unit of Measure]  Workflow Confirm &amp;ndash;&amp;gt; In Progress &amp;ndash;&amp;gt; Done Phantom BoM
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/home/50-sale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/50-sale/</guid>
+      <description> Sale Management Customer  Customer Data Category Product Product Jadi Harga Jual Report  Workflow Quotations &amp;ndash;&amp;gt; SO &amp;ndash;&amp;gt; Customer Invoice  Order Date (Tanggal SO di buat) Payment Terms (15 days, 30 days, etc) PPN Disc % Invoice Status (Waiting Bills, Open, Paid, Cancel) User Executor   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/home/60-finance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/60-finance/</guid>
+      <description> Finance Accounting  Journal Entries CoA (Chart of Account) Payment Method (Cash, Bank) Vendor Bills Customer Invoices Report Dashboard  Workflow Draft &amp;ndash;&amp;gt; Open &amp;ndash;&amp;gt; Paid  Integrasi dengan Purchase &amp;amp; Sale Order Date (Tanggal Bills &amp;amp; Invoice di buat) Status (Open, Paid, Cancel) User Executor   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/home/70-report/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/70-report/</guid>
+      <description> Report General Reports  Pivot Bar Chart Line Chart Pie Chart Dynamic Report [Filter &amp;amp; Group By]  Format  Excel (.xls} PDF (.pdf)  Accounting Reports  General Ledger Trial Balance Balance Sheet Profit and Loss   </description>
+    </item>
+    
   </channel>
 </rss>
