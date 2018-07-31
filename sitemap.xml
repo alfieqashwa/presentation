@@ -3,53 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/home/00start/</loc>
+    <loc>https://blog.circleq.co/presentation/home/00start/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/home/10-start/</loc>
+    <loc>https://blog.circleq.co/presentation/home/10-start/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/home/20-supplier/</loc>
+    <loc>https://blog.circleq.co/presentation/home/20-supplier/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/home/30-inventory/</loc>
+    <loc>https://blog.circleq.co/presentation/home/30-inventory/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/home/40-manufacture/</loc>
+    <loc>https://blog.circleq.co/presentation/home/40-manufacture/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/home/50-sale/</loc>
+    <loc>https://blog.circleq.co/presentation/home/50-sale/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/home/60-finance/</loc>
+    <loc>https://blog.circleq.co/presentation/home/60-finance/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/home/70-report/</loc>
+    <loc>https://blog.circleq.co/presentation/home/70-report/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://blog.circleq.co/presentation/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://blog.circleq.co/presentation/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/home/</loc>
+    <loc>https://blog.circleq.co/presentation/home/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://blog.circleq.co/presentation/tags/</loc>
     <priority>0</priority>
   </url>
   
